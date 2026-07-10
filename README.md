@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-varunsg.dev-E63946?style=flat-square)](https://varunsg.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-varuns11-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/varuns11)
-[![Resume](https://img.shields.io/badge/Resume-PDF-4CAF50?style=flat-square&logo=adobeacrobatreader)](https://varunsg.dev/resume)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4CAF50?style=flat-square&logo=adobeacrobatreader)](https://portfolio-9s06.onrender.com/resume)
 [![Email](https://img.shields.io/badge/Email-varunsg118@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:varunsg118@gmail.com)
 
 </div>
